@@ -1,4 +1,6 @@
 Overview: 
+
+
 On Day 2, I explored AWS’s global infrastructure and learned how AWS designs its services to be highly available, secure, and cost-effective. I also dived into the concepts of planning for failure, the benefits of AWS’s global infrastructure, the shared responsibility model, the AWS Well-Architected Framework, and AWS pricing models.
 
 AWS Global Infrastructure:
