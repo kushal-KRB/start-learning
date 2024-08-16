@@ -1,4 +1,6 @@
 Overview
+
+
 On Day 3, I delved into different architectural styles for building applications, explored various types of AWS services, and learned about some critical AWS tools and services, including Amazon VPC, EC2, RDS, and more. This day was packed with information on how to architect cloud solutions effectively using AWS’s wide range of services.
 
 Types of Services:
