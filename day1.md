@@ -1,5 +1,5 @@
 Overview
-term : On Day 1 of the 30 Days AWS Challenge, I got started by learning the basics of cloud computing. This included understanding what cloud computing is, why it’s important, and some of the key components that make it work. I also learned about the different types of cloud services, the ways cloud infrastructure can be deployed, and took my first steps with AWS Educate.
+ On Day 1 of the 30 Days AWS Challenge, I got started by learning the basics of cloud computing. This included understanding what cloud computing is, why it’s important, and some of the key components that make it work. I also learned about the different types of cloud services, the ways cloud infrastructure can be deployed, and took my first steps with AWS Educate.
 
 Cloud Computing:
  Cloud Computing is the on-demand delivery of computing services such as servers, storage, databases, networking software, and analytics.
