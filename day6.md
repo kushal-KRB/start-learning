@@ -1,5 +1,5 @@
 
-*AWS 30-Day Challenge - Day 6**
+AWS 30-Day Challenge - Day 6
 
 Overview
 
